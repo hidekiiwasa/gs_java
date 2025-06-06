@@ -1,6 +1,10 @@
 # Global Solution - Primeiro semestre
 
 API RESTful para gerenciamento de usuários e eventos de queda de energia.
+Integrantes:
+- Felipe Hideki Iwasa - RM98323
+- Guilherme Milheiro RM550295
+- Enzo Vasconcelos RM550702
 
 ## Sumário
 
