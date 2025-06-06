@@ -2,9 +2,9 @@
 
 <p>API RESTful para gerenciamento de usuários e eventos de queda de energia.</p>
 Integrantes:
-- Felipe Hideki Iwasa RM98323
-- Guilherme Milheiro RM550295
-- Enzo Vasconcelos RM550702
+<li>Felipe Hideki Iwasa RM98323</li>
+<li>Guilherme Milheiro RM550295</li>
+<li>Enzo Vasconcelos RM550702</li>
 
 ## Sumário
 
