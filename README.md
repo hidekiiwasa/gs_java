@@ -6,6 +6,8 @@ Integrantes:
 <li>Guilherme Milheiro RM550295</li>
 <li>Enzo Vasconcelos RM550702</li>
 
+(há documentação pelo swagger se preferir)
+
 ## Sumário
 
 - [Usuários](#usuários)
